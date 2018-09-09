@@ -1,0 +1,20 @@
+body {
+    background: #f5d5d5;
+}
+
+.name {
+    margin: 50px;
+    text-align: center;
+    font-family: helvetica;
+    font-weight: bold;
+    font-size: 100px;
+    color: aliceblue;
+    background: #16527e;
+}
+
+.pics {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
